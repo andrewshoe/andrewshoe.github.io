@@ -1,15 +1,11 @@
-.h1 {
+.greeting {
   font-size: 50px;
-  position: relative;
-  left: 215px
-
 }
 
 
 
-.p {
+.description {
   position: relative;
-  left: 263px;
   font-size: 24px ;
 
 
@@ -23,4 +19,8 @@ color: black;
 color: #080808;
 
 
+}
+
+.center {
+  text-align: center;
 }
