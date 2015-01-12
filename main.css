@@ -11,7 +11,7 @@
 
 }
 .hr {
-color: black;
+color: black;f
 
 }
 
@@ -23,4 +23,12 @@ color: #080808;
 
 .center {
   text-align: center;
+}
+
+.Line {
+  border-color: #D4D4D4 ;
+}
+
+.intro {
+  font-size: 22px;
 }
