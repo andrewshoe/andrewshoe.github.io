@@ -32,3 +32,8 @@ color: #080808;
 .intro {
   font-size: 22px;
 }
+
+.col-md-3 {
+	background-image: url('http://admissions.winonastateu.com/wp-content/uploads/2014/11/codingcorgi.jpg');
+	color: #47A3FF;
+}
