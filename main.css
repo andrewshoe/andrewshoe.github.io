@@ -49,11 +49,6 @@ color: #080808;
   left: 30px;
 }
 
-.col-md-4 {
-	postion: relative;
-	right: 2em;
-}
-
 .intro {
 	color: #00B88A;
 }
@@ -68,3 +63,11 @@ color: #080808;
 	padding-right: 3em;
 	padding-left: 3em;
 }
+
+.whole {
+	background-color: #DEEFFF;
+}
+
+
+
+
