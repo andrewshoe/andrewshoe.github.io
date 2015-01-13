@@ -30,10 +30,41 @@ color: #080808;
 }
 
 .intro {
-  font-size: 22px;
+  font-size: 1.5em;
 }
 
 .col-md-3 {
-	background-image: url('http://admissions.winonastateu.com/wp-content/uploads/2014/11/codingcorgi.jpg');
 	color: #47A3FF;
+}
+.col-md-5 {
+	color: #33FF33;
+}
+
+.col-md-4 {
+	color: #FF6600;
+}
+
+.row {
+	position: relative;
+  left: 30px;
+}
+
+.col-md-4 {
+	postion: relative;
+	right: 2em;
+}
+
+.intro {
+	color: #00B88A;
+}
+
+.description {
+	color: #FF66CC;
+}
+
+.container2 {
+	padding-bottom: 3em;
+	padding-top: 3em;
+	padding-right: 3em;
+	padding-left: 3em;
 }
