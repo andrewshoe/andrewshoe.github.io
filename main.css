@@ -33,20 +33,15 @@ color: #080808;
   font-size: 1.5em;
 }
 
-.col-md-3 {
+#left-hobby {
 	color: #47A3FF;
 }
-.col-md-5 {
+#center-hobby {
 	color: #33FF33;
 }
 
-.col-md-4 {
+#right-hobby {
 	color: #FF6600;
-}
-
-.row {
-	position: relative;
-  left: 30px;
 }
 
 .intro {
@@ -63,11 +58,5 @@ color: #080808;
 	padding-right: 3em;
 	padding-left: 3em;
 }
-
-.whole {
-	background-color: 	#E0F0FF;
-}
-
-
 
 
